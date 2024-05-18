@@ -1,0 +1,5 @@
+# Ignorar la carpeta de datasets
+datasets/
+
+# Ignorar la carpeta organized_chest_xray
+organized_chest_xray/
